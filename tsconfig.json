@@ -10,7 +10,6 @@
     "module": "es2020",
     "moduleResolution": "node",
     "allowSyntheticDefaultImports": true,
-    "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "target": "es2015",
     "typeRoots": [
